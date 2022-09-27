@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "red-queen/endpoint",
+    "red-queen/event"
+]
