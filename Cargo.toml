@@ -2,5 +2,6 @@
 
 members = [
     "red-queen/endpoint",
-    "red-queen/event"
+    "red-queen/event",
+    "red-queen/transport"
 ]
