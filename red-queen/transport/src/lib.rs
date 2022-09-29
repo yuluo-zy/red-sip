@@ -1,5 +1,6 @@
 mod resolve;
 mod parser;
+mod url;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right
