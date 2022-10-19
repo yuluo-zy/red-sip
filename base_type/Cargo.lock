@@ -104,14 +104,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "endpoint"
-version = "0.1.0"
-
-[[package]]
-name = "event"
-version = "0.1.0"
-
-[[package]]
 name = "fnv"
 version = "1.0.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -303,10 +295,6 @@ checksum = "5a92e95282d51847559afd001861bf9eacb015d0483f11c1166aa99e36d756b1"
 dependencies = [
  "rand",
 ]
-
-[[package]]
-name = "transport"
-version = "0.1.0"
 
 [[package]]
 name = "typenum"

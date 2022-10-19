@@ -3,5 +3,7 @@
 members = [
     "red-queen/endpoint",
     "red-queen/event",
-    "red-queen/transport"
+    "red-queen/transport",
+    "base_type",
+    "base_type/derives"
 ]
